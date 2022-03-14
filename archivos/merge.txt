@@ -1,0 +1,3 @@
+Diego Ospina Ramírez
+20
+Entender a profundidad en qué condiciones un modelado orientado a objetos es preferible a un modelo estructurado o funcional, o si siempre resulta más conveniente tomar el enfoque orientado a objetos.
