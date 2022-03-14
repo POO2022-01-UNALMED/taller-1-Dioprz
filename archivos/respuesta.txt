@@ -1,0 +1,8 @@
+Tras lanzar el commit, la respuesta es que no hay ningún cambio para aplicar en el commit y ambos repositorios están actualizados. Respuesta explícita luego de este comentario.
+
+## [eon taller-1-Dioprz]$ git commit -m 'commit con carpeta vacía archivos'
+
+##En la rama main
+##Tu rama está actualizada con 'origin/main'.
+##
+##nada para hacer commit, el árbol de trabajo está limpio
