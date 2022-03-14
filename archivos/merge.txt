@@ -1,0 +1,1 @@
+Debido a que la carpeta ya no era vacía, pues se añadió el archivo respuesta.txt, el commit sí se pudo hacer.
