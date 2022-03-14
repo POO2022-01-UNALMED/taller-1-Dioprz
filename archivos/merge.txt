@@ -1,3 +1,7 @@
 Diego Ospina Ramírez
 20
 Entender a profundidad en qué condiciones un modelado orientado a objetos es preferible a un modelo estructurado o funcional, o si siempre resulta más conveniente tomar el enfoque orientado a objetos.
+
+Debido a que la carpeta ya no era vacía, pues se añadió el archivo respuesta.txt, el commit sí se pudo hacer.
+
+Ya que esto crea bifurcaciones en las ramas, las cuales luego deben ser conciliadas manualmente al fusionar con un comando git merge, o alternativamente haciendo un git rebase para editar el historial de commit's y sobreponer los cambios realizados en el repositorio local
